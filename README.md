@@ -64,3 +64,8 @@
 ---
 
 ⭐ “Code, Research, Build, Repeat.”
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/huongakwy/huongakwy/blob/output/github-contribution-grid-snake-dark.svg)
