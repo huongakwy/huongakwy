@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🤖 AI Engineer & Backend Developer
-- 🧠 Building Multi-Agent AI systems for E-commerce
+- 🧠 Building Multi-Agent AI systems
 - ⚡ Working with FastAPI, PostgreSQL, Docker & Qdrant
 - 📚 Researching RAG, LLM Agents, Recommendation Systems
 - 🎓 Published paper at YSC (Youth Science Competition)
@@ -61,14 +61,6 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
----
-
-## 📌 Current Projects
-- 🛒 Multi-Agent Chatbot for E-commerce
-- 🔍 RAG Pipeline with Qdrant + PostgreSQL
-- 🌍 AI-powered Travel Recommendation System
-- 📊 Product Clustering & Recommendation Research
-
 ---
 
 ## 📈 GitHub Stats
