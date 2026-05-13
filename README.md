@@ -5,8 +5,6 @@
 - 🧠 Building Multi-Agent AI systems
 - ⚡ Working with FastAPI, PostgreSQL, Docker & Qdrant
 - 📚 Researching RAG, LLM Agents, Recommendation Systems
-- 🎓 Published paper at YSC (Youth Science Competition)
-
 ---
 
 ## 🛠 Tech Stack
